@@ -1,0 +1,14 @@
+.,empty
+I,railsUpDown
+-,railsLeftRight
+#,railsCross
+1,railsCurveBottomRight
+2,railsCurveRightUp
+3,railsCurveLeftBottom
+4,railsCurveUpLeft
+5,railsJunctionBottomToUpRight
+a,railsJunctionBottomUpRight
+L,train1Locomotive
+C,train1Coach
+T,train1Truck
+
